@@ -3,12 +3,13 @@ project:
   type: website
 
 website:
-  title: "cristrinaranjusweb"
+  title: "cristrinaranjus.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
