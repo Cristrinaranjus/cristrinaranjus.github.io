@@ -34,6 +34,6 @@ and active involvement in the [Federación de Jóvenes Investigadores Precarios]
 where we denounce and advocate for better conditions in research.
 
 Feel free to reach me at [cristina.rodriguezp@uam.es](mailto:cristina.rodriguezp@uam.es) 
-or [rodriguezprada.cristina@gmail.com](mailto:rodriguezprada.cristina@gmail.com )
+or [rodriguezprada.cristina@gmail.com](mailto:rodriguezprada.cristina@gmail.com) :)
 
 ------
